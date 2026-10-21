@@ -1,0 +1,14 @@
+{
+  "name": "tiny-survey",
+  "version": "1.0.0",
+  "description": "A tiny Survey",
+  "main": "tinysurvey.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pat W. Newbrough",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
